@@ -5,7 +5,7 @@ with open('README.md') as readme_file:
 
 setup_args = dict(
     name='pycovid19',
-    version='0.1.1',
+    version='0.1.4',
     description='Protect you jupyter notebook from COVID19',
     long_description_content_type="text/markdown",
     long_description=README,
@@ -14,7 +14,7 @@ setup_args = dict(
     author='Sobir Bobiev',
     author_email='sobir.bobiev@gmail.com',
     keywords=['Jupyter Notebook', 'COVID19', 'Protective Masks'],
-    url='https://github.com/sobir-git/pycovid19',
+    url='https://github.com/sobir-git/covid19',
     download_url='https://pypi.org/project/pycovid19/'
 )
 
